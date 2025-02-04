@@ -18,5 +18,6 @@
         "Swedish Ethical Review Authority (Dnr: 2021-06225-01)"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004996.v1.0.2",
-    "License": "CC0"
+    "License": "CC0",
+    "HowToAcknowledge": "E. Torubarova, C. Arvidsson, J. Berrebi, J. Uddén, and A. Pereira, “Neuroengage: A\nmultimodal dataset integrating fmri for analyzing conversational engagement in human-human and human-robot interactions,” in Proceedings\nof the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), IEEE, 2025"
 }
