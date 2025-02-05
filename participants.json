@@ -24,14 +24,34 @@
       "right": "right"
     }
   },
-   "missing_data": {
+  "eng_level_run-1": {
+    "Description": "engagement level for the first conversation",
+    "Levels": {
+      "high": "high engagement (EC in the dataset paper)",
+      "low": "low engagement (PL in the dataset paper)"
+    }
+  },
+  "eng_level_run-2": {
+    "Description": "engagement level for the second conversation",
+    "Levels": {
+      "medium": "medium engagement (AL in the dataset paper)"
+    }
+  },
+  "eng_level_run-3": {
+    "Description": "engagement level for the third conversation",
+    "Levels": {
+      "high": "high engagement (EC in the dataset paper)",
+      "low": "low engagement (PL in the dataset paper)"
+      }
+    },
+  "missing_data": {
     "Description": "data types missing for each participant",
     "Levels": {
       "eye_tracking": "eye tracking",
       "sound": "audio recording"
     }
    },
-   "Notes": {
+  "notes": {
      "Description": "notes"
-   }
+  }
 }
