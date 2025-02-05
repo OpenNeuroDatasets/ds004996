@@ -1,4 +1,4 @@
-This dataset contains raw and preprocessed fMRI data of human-human and human-robot conversations from a total of 50 participants (N HHI = 30, N HRI = 20). Each participant held three 10-minute conversations in Swedish with either a human confederate or a robot operated via a VR telepresence interface. 
+This dataset contains raw and preprocessed fMRI data of human-human and human-robot bidirectional free conversations from a total of 50 participants (N HHI = 30, N HRI = 20). Each participant held three 10-minute conversations in Swedish with either a human confederate or a robot operated via a VR telepresence interface. 
 
 Each functional run contains 11 min 45 sec of recording with 1.2 sec TR. The functional run structure was as follows: fixation cross (15 sec) -> conversation (10 min) -> message to wrap up the discussion -> remaining of conversation (20 sec, not included in the rest of the data) -> blank screen (2 sec) -> fixation cross (15 sec).
 
