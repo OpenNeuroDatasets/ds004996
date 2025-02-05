@@ -1,7 +1,12 @@
-Dataset of human-human and human-robot conversations with neuroimaging, eye-tracking, segmented audio, video, and behavioral data.
+This dataset contains raw and preprocessed fMRI data of human-human and human-robot conversations from a total of 50 participants (N HHI = 30, N HRI = 20). Each participant held three 10-minute conversations in Swedish with either a human confederate or a robot operated via a VR telepresence interface. 
 
-[The dataset is being updated. The current version contains defaced structural MRI data from both human-human and human-robot conditions. To request the data not yet uploaded, pleas contact the researchers.]
+Each functional run contains 11 min 45 sec of recording with 1.2 sec TR. The functional run structure was as follows: fixation cross (15 sec) -> conversation (10 min) -> message to wrap up the discussion -> remaining of conversation (20 sec, not included in the rest of the data) -> blank screen (2 sec) -> fixation cross (15 sec).
 
+Details on the technical setup for replication can be found in the comments below. Details of the experiment are reported in: E. Torubarova, C. Arvidsson, J. Berrebi, J. Uddén, and A. Pereira, “Neuroengage: A multimodal dataset integrating fmri for analyzing conversational engagement in human-human and human-robot interactions,” in Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), IEEE, 2025
 
-Details on the technical setup for replication can be found in the comments below.
+Behavioral data (eye tracking, segmented audio, video) are available at: [TBD]
 
+Notes:
+- sub-09, sub-10, sub-17, sub-39 are excluded from the dataset due to various procedural issues.
+- some data types (audio or eye tracking) are missing for some of the participants. For details, see participants.tsv
+- anatomical volumes were defaced using pydeface 2.0.2
