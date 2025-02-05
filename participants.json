@@ -23,5 +23,15 @@
       "left": "left",
       "right": "right"
     }
-  }
+  },
+   "missing_data": {
+    "Description": "data types missing for each participant",
+    "Levels": {
+      "eye_tracking": "eye tracking",
+      "sound": "audio recording"
+    }
+   },
+   "Notes": {
+     "Description": "notes"
+   }
 }
