@@ -8,5 +8,6 @@ Behavioral data (eye tracking, segmented audio, video) are available at: [TBD]
 
 Notes:
 - sub-09, sub-10, sub-17, sub-37, sub-39 are excluded from the dataset due to various procedural issues.
+- sub-16_run-03 contains 3 minutes of conversation
 - some data types (audio or eye tracking) are missing for some of the participants. For details, see participants.tsv
 - anatomical volumes were defaced using pydeface 2.0.2
