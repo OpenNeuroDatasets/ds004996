@@ -1,52 +1,52 @@
-participant_id;group;sex;age;handedness;eng_level_run-1;eng_level_run-2;eng_level_run-3;missing_data;notes
-sub-01;human;f;32;right;low;medium;high;;
-sub-02;human;f;21;right;high;medium;low;eye_tracking;
-sub-03;human;f;39;right;low;medium;high;eye_tracking;
-sub-04;human;m;33;right;high;medium;low;eye_tracking;
-sub-05;human;m;31;right;high;medium;low;;
-sub-06;human;m;23;right;low;medium;high;;
-sub-07;human;f;29;right;high;medium;low;;
-sub-08;human;m;27;right;low;medium;high;;
-sub-11;human;m;27;right;low;medium;high;;
-sub-12;human;m;21;right;high;medium;low;;
-sub-13;human;m;21;right;high;medium;low;;
-sub-14;human;m;30;right;high;medium;low;eye_tracking;
-sub-15;human;f;32;right;low;medium;high;;
-sub-16;human;m;21;right;low;medium;high;eye_tracking;run-3 contains 4 mins
-sub-18;human;m;21;right;low;medium;high;;
-sub-19;human;m;24;right;high;medium;low;;
-sub-20;human;f;28;right;high;medium;low;eye_tracking;
-sub-21;human;f;27;right;low;medium;high;;
-sub-22;human;f;28;right;high;medium;low;;
-sub-23;human;m;30;right;high;medium;low;;
-sub-24;human;f;25;right;low;medium;high;eye_tracking;
-sub-25;human;f;27;right;low;medium;high;;
-sub-26;human;f;26;right;low;medium;high;eye_tracking;
-sub-27;human;f;29;right;high;medium;low;;
-sub-28;human;m;28;right;low;medium;high;;
-sub-29;human;f;25;right;high;medium;low;;
-sub-30;human;m;24;right;high;medium;low;;
-sub-31;human;f;23;right;low;medium;high;;
-sub-32;human;f;25;right;low;medium;high;eye_tracking;
-sub-33;human;m;29;right;high;medium;low;;
-sub-34;robot;f;19;right;high;medium;low;;
-sub-35;robot;f;38;right;high;medium;low;;
-sub-36;robot;f;22;right;low;medium;high;;
-sub-37;robot;m;27;right;high;medium;low;sound;
-sub-38;robot;m;22;right;low;medium;high;;
-sub-40;robot;m;21;right;low;medium;high;;
-sub-41;robot;f;22;right;high;medium;low;;
-sub-42;robot;m;26;right;high;medium;low;;
-sub-43;robot;f;26;right;high;medium;low;;
-sub-44;robot;m;36;right;low;medium;high;eye_tracking;
-sub-45;robot;m;22;right;low;medium;high;;
-sub-46;robot;f;21;right;low;medium;high;;
-sub-47;robot;m;28;right;high;medium;low;;
-sub-48;robot;m;26;right;high;medium;low;;
-sub-49;robot;m;26;right;low;medium;high;;
-sub-50;robot;f;25;right;low;medium;high;;
-sub-51;robot;m;24;right;high;medium;low;;
-sub-52;robot;f;22;right;high;medium;low;;
-sub-53;robot;f;38;right;low;medium;high;;
-sub-54;robot;m;31;right;high;medium;low;;
-sub-55;robot;f;21;right;low;medium;high;;
+participant_id	group	sex	age	handedness	eng_level_run-1	eng_level_run-2	eng_level_run-3	missing_data
+sub-01	human	f	32	right	low	medium	high	
+sub-02	human	f	21	right	high	medium	low	eye_tracking
+sub-03	human	f	39	right	low	medium	high	eye_tracking
+sub-04	human	m	33	right	high	medium	low	eye_tracking
+sub-05	human	m	31	right	high	medium	low	
+sub-06	human	m	23	right	low	medium	high	
+sub-07	human	f	29	right	high	medium	low	
+sub-08	human	m	27	right	low	medium	high	
+sub-11	human	m	27	right	low	medium	high	
+sub-12	human	m	21	right	high	medium	low	
+sub-13	human	m	21	right	high	medium	low	
+sub-14	human	m	30	right	high	medium	low	eye_tracking
+sub-15	human	f	32	right	low	medium	high	
+sub-16	human	m	21	right	low	medium	high	eye_tracking
+sub-18	human	m	21	right	low	medium	high	
+sub-19	human	m	24	right	high	medium	low	
+sub-20	human	f	28	right	high	medium	low	eye_tracking
+sub-21	human	f	27	right	low	medium	high	
+sub-22	human	f	28	right	high	medium	low	
+sub-23	human	m	30	right	high	medium	low	
+sub-24	human	f	25	right	low	medium	high	eye_tracking
+sub-25	human	f	27	right	low	medium	high	
+sub-26	human	f	26	right	low	medium	high	eye_tracking
+sub-27	human	f	29	right	high	medium	low	
+sub-28	human	m	28	right	low	medium	high	
+sub-29	human	f	25	right	high	medium	low	
+sub-30	human	m	24	right	high	medium	low	
+sub-31	human	f	23	right	low	medium	high	
+sub-32	human	f	25	right	low	medium	high	eye_tracking
+sub-33	human	m	29	right	high	medium	low	
+sub-34	robot	f	19	right	high	medium	low	
+sub-35	robot	f	38	right	high	medium	low	
+sub-36	robot	f	22	right	low	medium	high	
+sub-37	robot	m	27	right	high	medium	low	sound
+sub-38	robot	m	22	right	low	medium	high	
+sub-40	robot	m	21	right	low	medium	high	
+sub-41	robot	f	22	right	high	medium	low	
+sub-42	robot	m	26	right	high	medium	low	
+sub-43	robot	f	26	right	high	medium	low	
+sub-44	robot	m	36	right	low	medium	high	eye_tracking
+sub-45	robot	m	22	right	low	medium	high	
+sub-46	robot	f	21	right	low	medium	high	
+sub-47	robot	m	28	right	high	medium	low	
+sub-48	robot	m	26	right	high	medium	low	
+sub-49	robot	m	26	right	low	medium	high	
+sub-50	robot	f	25	right	low	medium	high	
+sub-51	robot	m	24	right	high	medium	low	
+sub-52	robot	f	22	right	high	medium	low	
+sub-53	robot	f	38	right	low	medium	high	
+sub-54	robot	m	31	right	high	medium	low	
+sub-55	robot	f	21	right	low	medium	high	
