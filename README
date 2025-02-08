@@ -12,4 +12,4 @@ Notes:
 - some data types (audio or eye tracking) are missing for some of the participants. For details, see participants.tsv
 - anatomical volumes were defaced using pydeface 2.0.2
 
-[Preprocessed data: to be uploaded]
+[Preprocessed data and questionnaire results: to be uploaded]
