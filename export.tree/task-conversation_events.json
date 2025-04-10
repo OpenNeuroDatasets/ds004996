@@ -1,0 +1,19 @@
+{
+	"onset": {
+		"Description": "onset of events (sec from the start of the aquisition)"
+			  },
+	"duration": {
+		"Description": "duration of the events (sec)"
+			  },
+	"event_type": {
+		"Description": "type of experimental and conversational events",
+          "Levels": { 
+            "fixation_cross": "fixation cross",
+            "production": "participant speaking",
+            "comprehension": "confederate/robot speaking",
+            "turn_initiation": "600 ms window before onset of production after change of speaker",
+            "silence": "silence of both speakers"
+			  }
+            }
+}
+	
